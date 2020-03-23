@@ -1,0 +1,42 @@
+body{
+	background-color: #252422;
+}
+.jumbotron{
+	background-color: #EB5E28; color: #FFFCF2
+}
+.table thead th{
+	border-color: #CCC5B9;
+	background-color: #403D39; 
+	color: #FFFCF2;
+}
+td{
+	color: #FFFCF2;
+}
+.card{
+	background-color: #403D39; 
+	color: #FFFCF2; 
+	border-color: #EB5E28;
+}
+.card-header{
+	border-color: #CCC5B9;
+}
+.form-control{
+	background-color: #252422;
+	color: #CCC5B9;
+}
+.form-control:focus{
+	border-color: #EB5E28;
+	background-color: #252422;
+	color: #CCC5B9;
+}
+.btn{
+	background-color: #403D39;
+	border-color: #CCC5B9;
+}
+.btn:hover{
+	background-color: #252422;
+	border-color: #EB5E28;
+}
+::selection{
+	background: #EB5E28;
+}
